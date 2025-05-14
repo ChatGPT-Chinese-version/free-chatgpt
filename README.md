@@ -1,6 +1,6 @@
 # 【ChatGPT 中文版】最新国内ChatGPT访问指南（免费试用+GPT-4，无需科学上网）
 
->更新时间： 2025/05/13
+>更新时间： 2025/05/14
 
 想在国内使用 ChatGPT，却因翻墙困难或资源匮乏而一筹莫展？本文为您提供最全面的 ChatGPT 中文版访问指南，包括无需科学上网的操作步骤、GPT-4 免费试用推荐，以及详细功能介绍，助您畅享智能体验。
 
@@ -40,10 +40,10 @@ ChatGPT 中文版是由 OpenAI 开发的对话式人工智能模型的中文优�
 
 以下是几家安全、稳定的 ChatGPT 中文版镜像站点推荐，支持 GPT-4 免费试用：  
 
-1. [**snakegpt.chat**](https://snakegpt.chat)  
+1. [**snakegpt.com.cn**](https://snakegpt.com.cn)  
    - 稳定运行，支持 GPT-4 和 AI 绘画功能，手机扫码即可快速登录。  
 
-2. [**gptcat.cc**](https://gptcat.cc/)  
+2. [**chat2.gptcat.cc**](https://chat2.gptcat.cc/)  
    - 提供多模型支持，包括 GPT-4 和思维导图功能，适合专业需求。  
 
 3. [**ai-panda.xyz**](https://ai-panda.xyz/login?invite_code=34137c47)  
@@ -58,7 +58,7 @@ ChatGPT 中文版是由 OpenAI 开发的对话式人工智能模型的中文优�
 
 按照以下步骤，您可以快速体验 ChatGPT 中文版的强大功能：  
 
-1. **选择镜像站点**：访问 [snakegpt.chat](https://snakegpt.chat) 或 [gptcat.cc](https://gptcat.cc/)。  
+1. **选择镜像站点**：访问 [snakegpt.com.cn](https://snakegpt.com.cn) 或 [chat2.gptcat.cc](https://chat2.gptcat.cc/)。  
 2. **登录账户**：通过微信扫码或手机号快速注册登录，无需复杂验证。  
 3. **开启对话**：在输入框中输入问题或任务，ChatGPT 将即时为您生成回复。  
 4. **探索更多功能**：试用 AI 绘画、文档处理或思维导图，充分挖掘平台潜力。  
@@ -80,7 +80,7 @@ ChatGPT 中文版是由 OpenAI 开发的对话式人工智能模型的中文优�
 在镜像站点使用 GPT-4 不受官网限制，无频率和使用次数限制。  
 
 ### 5. 如何选择适合自己的镜像站点？  
-根据您的需求选择站点，例如 [snakegpt.chat](https://snakegpt.chat) 更适合绘画和快速登录，[gptcat.cc](https://gptcat.cc/) 更适合多模型应用场景。  
+根据您的需求选择站点，例如 [snakegpt.com.cn](https://snakegpt.com.cn) 更适合绘画和快速登录，[chat2.gptcat.cc](https://chat2.gptcat.cc/) 更适合多模型应用场景。  
 
 ---
 
